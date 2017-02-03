@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsCiCd", "JenkinsCiCd\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsCiCd.Tests", "JenkinsCiCd.Tests\JenkinsCiCd.Tests.csproj", "{972C43E9-BD3D-4063-819D-6D5F62CFCC34}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D9AEEE49-9FC9-49F7-918F-7D80448136CA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{139F8EB6-938A-45E9-BEDD-B51D48BE473C}"
 	ProjectSection(SolutionItems) = preProject
-		C:\Program Files (x86)\Jenkins\workspace\Web Service Deployment\nuget.exe = C:\Program Files (x86)\Jenkins\workspace\Web Service Deployment\nuget.exe
+		SolutionItems\nuget.exe = SolutionItems\nuget.exe
 	EndProjectSection
 EndProject
 Global
