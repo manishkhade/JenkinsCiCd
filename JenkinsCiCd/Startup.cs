@@ -10,5 +10,5 @@ namespace JenkinsCiCd
         {
             ConfigureAuth(app);
         }
-    } 
+    }   
 }
